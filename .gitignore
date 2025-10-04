@@ -1,0 +1,31 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+out/
+.tmp/
+temp/
+
+# Logs
+logs/
+*.log
+
+# dotenv environment files
+.env
+.env.*.local
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE folders
+.vscode/
+.idea/
+
+# Optional npm cache directory
+.npm/
+
+
+
